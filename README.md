@@ -24,7 +24,13 @@
       <a href="#macropower-tech" >
         <img src="./img/react-native.svg" width="48" height="48" alt="React Native" />
       </a>
-      <br>Docker
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">

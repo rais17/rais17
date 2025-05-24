@@ -18,19 +18,19 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/next.svg" width="48" height="48" alt="Python" />
+        <img src="./img/next-js.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Next.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/nodejs-1.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/nodejs-2.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/express-109.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/express-js.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Express.js
     </td>

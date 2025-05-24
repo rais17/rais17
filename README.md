@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! Arshad Here</h2>
 
-
-
 ###
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -12,49 +10,49 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/react-2.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/react-2.svg" width="48" height="48" alt="React.js" />
       </a>
       <br>React.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/next-js.svg" width="48" height="48" alt="Python" />
+        <img src="./img/next-js.svg" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
     </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/react-native.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>Docker
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/nodejs-2.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/nodejs-2.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/express-js.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/express-js.svg" width="48" height="48" alt="Express.js" />
       </a>
       <br>Express.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/mongodb-icon.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="../img/javascript.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/javascript.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/Typescript.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/typescript.svg" width="48" height="48" alt="Typescript" />
       </a>
       <br>Typescript
     </td>
@@ -75,4 +73,3 @@
 ###
 
 <br clear="both">
-
